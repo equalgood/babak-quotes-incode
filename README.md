@@ -1,6 +1,6 @@
 # babak-quotes-incode
 
-Good afternoon. In this file, I want to describe the development of the test task.
+Hello. In this file, I want to describe the development of the test task.
 
 Main tasks: I connected the app to the server via "socket.io-client" import.
 
